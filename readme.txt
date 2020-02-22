@@ -1,0 +1,1 @@
+weather_email is a Python application that sends an email with the current time and temperature in Boston.
